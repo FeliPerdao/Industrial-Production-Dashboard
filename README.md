@@ -33,8 +33,6 @@ This terminal has the same functionality but with additional features:
 - **Python** – Main programming language.
 - **Tkinter** – GUI (Graphical User Interface) library for building the application window.
 - **Pandas** – Used for handling and saving data in CSV format.
-- **CSV (Comma-Separated Values)** – File format for storing and managing registered data.
-- **Datetime** – Used to capture timestamps when saving records.
 - **gspread** – Google Sheets API library for Python.
 - **OAuth 2.0** – Authentication method for Google Sheets API.
 
